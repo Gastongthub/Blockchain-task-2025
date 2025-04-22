@@ -16,7 +16,7 @@ contract MyToken is ERC20 {
 }
 
 
-/// @title StakingPool - Contract ya staking
+/// @title StakingPool - Contract ya staking.
 // Contract izafasha abakoresha gushyira tokens muri staking no kubona inyungu (APR).
 contract StakingPool is Ownable {
     // Iyi ni interface ya ERC20 izatuma dushobora gukorana na token zindi
